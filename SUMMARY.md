@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [非知之艰，行之惟艰](README.md)
 
-## The Basics
+## 操作系统
 
 * [Spaces](the-basics/spaces.md)
 * [Collections](the-basics/collections.md)
@@ -10,14 +10,14 @@
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
 * [Change requests](the-basics/change-requests.md)
 
-## Publishing
+## 编程语言
 
 * [Publishing your content](publishing/publishing-your-content.md)
 
-## Tips and tricks
+## 软件工具
 
 * [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
 
-## Next steps
+## 下一节
 
 * [What next?](next-steps/what-next.md)
